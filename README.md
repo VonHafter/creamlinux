@@ -7,6 +7,9 @@ LCA is a DLC unlocker for Linux that is Based off Linux Cream
 3. Then set steam launch params: `./cream.sh %command%`
 4. Then Have fun and click play in steam
 
+
+## Info
+I am Just updating the Catoluge and not the code once it breaks i will no longer be able to matian this mod
 ## Credits
 [pulzed](https://github.com/pulzed) for [mINI](https://github.com/pulzed/mINI)(ini.h)
 
